@@ -16,7 +16,7 @@ Pygame library
 
 Installation:
 
-Clone the repository using git clone https://github.com/kumarbobby/endless-runner.git
+Clone the repository using git clone https://github.com/kumarbobby/python_games.git
 Navigate to the project directory: cd FissamPatti
 Run the main Python script: python main.py
 
